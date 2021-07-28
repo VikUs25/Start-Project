@@ -42,3 +42,27 @@ header {
   display: flex;
   align-items: center;
 }
+
+.first-screen {
+  height: 800px;
+  background-image: url(./img/bgcFirstscreen.svg)
+}
+
+.first-screen__title {
+padding: 274px 982px 302px 403px;
+max-width: 535px;
+max-height: 224px;
+color: white;
+font-family: Verdana, Geneva, sans-serif;
+}
+
+h3 {
+  width: 420px;
+  height: 74px;
+  font-size: 64px;
+}
+
+.centerSpb{
+width: 533px;
+height: 68;
+}
